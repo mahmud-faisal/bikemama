@@ -1,0 +1,8 @@
+.nav-itm li {
+    width: 100%;
+    text-align: center; /* Center the text */
+  }
+
+  .nav-itm {
+    flex-direction: column; /* Align items in a column */
+  }
